@@ -5,7 +5,7 @@ void dog()
 }
 void child()
 {
-	printf("crying.");
+	printf("Child is crying.");
 }
 void cat()
 {
