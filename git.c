@@ -9,8 +9,9 @@ void child()
 }
 void cat()
 {
-	printf("Meow");
+	printf("Cats are Meow");
 }
+
 int main()
 {
 	dog();
